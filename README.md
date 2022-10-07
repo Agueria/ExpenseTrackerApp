@@ -1,8 +1,8 @@
 # ExpenTra App
-
+One of my first full stack projects.
 
 ## About
-Expenditure Tracking Application, my one of the first full stack projects. The application will simply make it easier for you to keep track of your expenses.
+Expenditure Tracking Application, The application will simply make it easier for you to keep track of your expenses.
 
 
 
